@@ -36,6 +36,8 @@ linkedin_username: rogerjohnsen
 # telegram_username: rjohnsen
 
 header_pages:
+  - resources.md
+  - software.md
   - about.md
 
 social_links:
