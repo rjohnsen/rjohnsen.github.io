@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Predefender is a comprehensive resource site for Threat Hunters, created by Norwegian cybersecurity expert Roger Johnsen. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Roger launched this site in 2024 with the vision of advancing the next phase in the evolution of Security Operations Centers (SOCs). His goal is to shift the mindset from a reactive approach to a proactive one, enabling threat hunters to anticipate and neutralize cyber threats before they escalate. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Predefender offers a wealth of resources, including cutting-edge research, tools, and best practices to empower security professionals in their mission to protect digital landscapes.
