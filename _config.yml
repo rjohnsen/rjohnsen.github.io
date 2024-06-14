@@ -24,7 +24,8 @@ github_username:  rjohnsen
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
+remote_theme: forty-jekyll-theme
 plugins:
   - jekyll-feed
 
