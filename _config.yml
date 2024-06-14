@@ -14,11 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Predefender
-email: N/A
-description: >- # this means to ignore newlines until "baseurl:"
-  Threathunting
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+author:
+  name: rjohnsen
+  email: rogercbjohnsen@gmail.com
 
 description: >
   Welcome to our site, dedicated to advancing the next phase in Security Operations 
@@ -29,9 +30,12 @@ description: >
   in to elevate your SOC's defense mechanisms and stay ahead of emerging threats.
 
 # Social media
-# github_username: rjohnsen
-# linkedin_username: rogerjohnsen
+github_username: rjohnsen
+linkedin_username: rogerjohnsen
 # telegram_username: rjohnsen
+
+header_pages:
+  - about.md
 
 social_links:
   - { platform: github, user_url: "https://github.com/rjohnsen" }
