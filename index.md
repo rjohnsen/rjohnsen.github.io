@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![Threat Hunting Banner](/assets/threat-hunting.png)
+![Threat Hunting Banner](/rjohnsen.github.io/assets/images/threat-hunting.png)
 
 
 Welcome to the Future of Cybersecurity Training
