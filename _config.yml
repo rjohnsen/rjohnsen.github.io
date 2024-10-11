@@ -49,9 +49,10 @@ social_links:
 markdown: kramdown
 
 #theme: minima
-remote_theme: jekyll/minima
-minima:
-  skin: dark
+# remote_theme: jekyll/minima
+remote_theme: "jeffreytse/jekyll-theme-yat"
+# minima:
+#  skin: dark
 
 plugins:
   - jekyll-feed
